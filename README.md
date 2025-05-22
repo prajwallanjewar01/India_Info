@@ -1,4 +1,4 @@
-# 🇮🇳 INDIA INFO Website
+# INDIA INFO Website
 
 ## 📘 College Mini Project (2nd Year)
 
