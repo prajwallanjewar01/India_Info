@@ -1,6 +1,6 @@
 # INDIA INFO Website
 
-## 📘 College Mini Project (2nd Year)
+## 📘 College Project (2nd Year)
 
 This project is developed as part of the **2nd Year Project** for the **Bachelor of Technology (BTech)** in **Computer Science and Engineering** program at College, under the guidance of the Department of Computer Science.
 
